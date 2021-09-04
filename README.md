@@ -6,7 +6,7 @@ To compile the code:
 gcc donut.c -o donut
 ```
 
-To run code:
+To run the code:
 
 ```bash
 ./donut
